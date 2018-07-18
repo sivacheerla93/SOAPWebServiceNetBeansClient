@@ -1,2 +1,2 @@
 # SOAPWebServiceNetBeansClient
-![](/screenshots/Client (1).png)
+![Sample](../screenshots/Client (1).png)
