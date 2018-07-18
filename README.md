@@ -1,2 +1,2 @@
 # SOAPWebServiceNetBeansClient
-![GitHub Logo](/images/Client (1).png)
+![GitHub Logo](/screenshots/Client (1).png)
