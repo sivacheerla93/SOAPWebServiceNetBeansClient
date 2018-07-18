@@ -16,7 +16,11 @@ public class CalculatorClient {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println(addition(25, 65));
+        try {
+            System.out.println(addition(25, 65));
+        } catch (Exception ex) {
+            System.out.println("Error: " + ex);
+        }
     }
 
     private static int addition(int num1, int num2) {
