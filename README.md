@@ -1,2 +1,12 @@
-# SOAPWebServiceNetBeansClient
-![Sample](../screenshots/Client (1).png)
+### Client program for SOAPWebServiceNetBeans Project
+![](/screenshots/Client1.png)
+![](/screenshots/Client2.png)
+![](/screenshots/Client3.png)
+![](/screenshots/Client4.png)
+![](/screenshots/Client5.png)
+![](/screenshots/Client6.png)
+![](/screenshots/Client7.png)
+![](/screenshots/Client8.png)
+![](/screenshots/Client9.png)
+![](/screenshots/Client10.png)
+![](/screenshots/Client11.png)
