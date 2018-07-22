@@ -1,4 +1,4 @@
-### Client program for SOAPWebServiceNetBeans Project
+### Client program for SOAP Web Service NetBeans Project
 
 #### Project Configuartion:
 * OS: Windows 8.1 64-bit
